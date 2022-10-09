@@ -199,7 +199,7 @@ function Home() {
       </div>
       <div className="main__right">
         <div className="main__right-head">
-          <p className="main__right-heading">Recents</p>
+          <p className="main__right-heading">Chat</p>
           <div className="main__right-arrow">
             <IoIosArrowBack color={"var(--first-color)"} />
             <IoIosArrowForward color={"var(--first-color)"} />
