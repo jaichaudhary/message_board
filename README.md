@@ -2,6 +2,10 @@
 
 Front-end for a message board against which users can post and view simple text messages.
 
+## Project Link
+
+`https://message-board-dusky.vercel.app/`
+
 ## Features
 
 - Post a message
