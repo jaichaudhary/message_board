@@ -168,7 +168,7 @@ function Main() {
               />
               <div className="mr__details-text">
                 <p className="mr__details-num">+91 75033124477</p>
-                <p className="mr__details-where">Call to Mudit</p>
+                <p className="mr__details-where">Call to Amal</p>
               </div>
             </div>
             <div className="mr__details-icons">
